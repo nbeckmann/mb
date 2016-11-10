@@ -1,0 +1,16 @@
+{
+	"apiVersion":"1.0",
+	"data":{
+		"items":[
+			{
+				"result":"{\"Gesamtguthaben\":\" 19.005,70\",\"Rendite\":\" 8,918\",\"Zinssatz gesamt\":\" 8,001\"}"
+			}
+		],
+		"error":false
+	},
+	"context":"137353393383500000000000",
+	"session":"Dialog-ID",
+	"service":"adf6c072-b5d7-4223-9d16-fefc2075c456",
+	"blz":94059421,
+	"timestamp":"2016-11-08T14:50:41.375+0100"
+}

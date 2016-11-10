@@ -1,0 +1,8 @@
+{
+  "name": "mb-app",
+  "description": "Modellberechnung",
+  "main": "modellberechnung.js",
+  "dependencies": {
+    "tabris": "1.10"
+  }
+}
